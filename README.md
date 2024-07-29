@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadnaqvi14&label=Profile%20views&color=0e75b6&style=flat" alt="asadnaqvi14" /> </p>
 
-- 💬 Ask me about **react,javascript,html,css,**
+- 💬 Ask me about **react,javascript,html,css,Angular,Nodejs**
 
 - 📫 How to reach me **asadnaqvi2024@gmail.com**
 
